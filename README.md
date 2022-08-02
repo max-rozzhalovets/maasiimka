@@ -5,10 +5,11 @@
  Interested in development and want to associate live with it.
  Passionate about JS, React and layout.
  socials
-    - [LinkedIn](https://www.linkedin.com/in/maxym-rozzhalovets-2a0b4a241/)
-    - [Twitter](https://twitter.com/Maasiimka)
+ 
+- [LinkedIn](https://www.linkedin.com/in/maxym-rozzhalovets-2a0b4a241/)
+- [Twitter](https://twitter.com/Maasiimka)
   
-# Open to offers!
+### Open to offers!
 
 
 <!---

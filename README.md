@@ -1,14 +1,14 @@
-Hi there!
-- My name is Max. I`m budding frontend developer. 
+##Hi there! 
+#y name is Max. I`m budding frontend developer. 
 
-- Studying in Taras Shevchenko National Univercity on faculty of Computer Science and Cybernetics.
-- Interested in development and want to associate live with it.
-- Passionate about JS, React and layout.
-- My socials:
-    LinkedIn https://www.linkedin.com/in/maxym-rozzhalovets-2a0b4a241/
-    Twitter https://twitter.com/Maasiimka
+#Studying in Taras Shevchenko National Univercity on faculty of Computer Science and Cybernetics.
+#Interested in development and want to associate live with it.
+#Passionate about JS, React and layout.
+#socials:
+    -[LinkedIn](https://www.linkedin.com/in/maxym-rozzhalovets-2a0b4a241/)
+    -[Twitter](https://twitter.com/Maasiimka)
   
-- Open to offers!
+#Open to offers!
 
 
 <!---

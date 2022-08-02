@@ -4,7 +4,7 @@
  Studying in Taras Shevchenko National Univercity on faculty of Computer Science and Cybernetics.
  Interested in development and want to associate live with it.
  Passionate about JS, React and layout.
- socials:
+ socials
     - [LinkedIn](https://www.linkedin.com/in/maxym-rozzhalovets-2a0b4a241/)
     - [Twitter](https://twitter.com/Maasiimka)
   

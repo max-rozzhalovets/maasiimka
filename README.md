@@ -6,7 +6,7 @@
  Passionate about JS, React and layout.
  socials
  
-- [LinkedIn](https://www.linkedin.com/in/maxym-rozzhalovets-2a0b4a241/)
+- [LinkedIn](https://www.linkedin.com/in/max-rozzhalovets/)
 - [Twitter](https://twitter.com/Maasiimka)
   
 ### Open to offers!

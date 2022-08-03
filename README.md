@@ -1,16 +1,13 @@
-## Hi there! 
- My name is Max. I`m budding front end developer. 
+## Hey! 
+My name is Max. I am a beginner front end developer.
 
- Studying in Taras Shevchenko National Univercity on faculty of Computer Science and Cybernetics.
- Interested in development and want to associate live with it.
- Passionate about JS, React and layout.
- socials
- 
+I study at Taras Shevchenko National University at the Faculty of Informatics and Cybernetics. I am interested in web development and want to connect my life with it. Have got a passion for JS and React.
+
+socials:
 - [LinkedIn](https://www.linkedin.com/in/max-rozzhalovets/)
 - [Twitter](https://twitter.com/Maasiimka)
   
 ### Open to offers!
-
 
 <!---
 maasiimka/maasiimka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

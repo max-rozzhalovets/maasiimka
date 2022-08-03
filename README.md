@@ -1,5 +1,5 @@
 ## Hi there! 
- my name is Max. I`m budding frontend developer. 
+ My name is Max. I`m budding front end developer. 
 
  Studying in Taras Shevchenko National Univercity on faculty of Computer Science and Cybernetics.
  Interested in development and want to associate live with it.
